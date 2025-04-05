@@ -18,6 +18,6 @@ A simple and interactive To-Do List application built using **Spring Boot** for 
 
 ## Usage
 
-1. Add tasks, edit them, delete, and mark them as completed.
+1. Add tasks, delete, and mark them as completed.
 2. Persistent tasks using PostgreSQL.
 
